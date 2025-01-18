@@ -1,0 +1,18 @@
+*{
+    font-family: monospace,'Courier New', Courier;
+    box-sizing: border-box;
+}
+.flex-container{
+    display: flex;
+    flex-direction: column;
+    padding: 12px;
+}
+
+#coverpage{
+    font-size: 40px;
+    text-align: center;
+}
+li{
+    padding-top: 12px ;
+    padding-bottom: 8px;
+}
